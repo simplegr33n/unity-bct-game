@@ -1,5 +1,6 @@
 # Battle Card Tactics
 *... a pretty dumb working title*
+
 <img src="https://github.com/simplegr33n/CBT/blob/master/screenshots/welcome.png?raw=true" width="600">
 
 ## About

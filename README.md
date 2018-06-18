@@ -1,20 +1,24 @@
 # Battle Card Tactics
 *... a pretty dumb working title*
-
+<img src="https://github.com/simplegr33n/CBT/blob/master/screenshots/welcome.png?raw=true" width="600">
 
 ## About
 BCT is the start to an open-source Tactical RPG engine with the ultimate goal of developing a game that delivers a balanced and competitive multiplayer experience along with a robust solo-play campaign. I took a break from solo-developing this project in early March 2018 and let it sit a few months while I pursued other interests. I am now pushing the project to GitHub as a way of encouraging myself to continue progress, as well as to open it up to any who might be interested in getting involved or finding some inspiration for their own projects.
 
+<img src="https://github.com/simplegr33n/CBT/blob/master/screenshots/solar%20flare%203.png?raw=true" width="600">
 
 ### Current Status
 At present, the maps in the game are all at least semi-playable (they were all developed in different stages and so some of the older ones no longer work so well) and if you're lucky you can get through a game from beginging to end in single-player mode. There are some bugs in terms of turn logic as well as physical movement in the game which can sometimes break the game completely. Adding insult to an already buggy experience, the current 'music' is painful to endure and the camera movement is often nauseating. Beyond that, no map is yet in its final form (one of them is even straight copied from Final Fantasy Tactics), so there is lots of work yet in terms of level design and textures. So too for character and ability design, modeling, texturing, animation. I've sketched a few original models and abilities into the game for testing during development, but none are in any way complete or even necessarily destined to be in a final form of the game.
 
-***Gameplay Video***
-
-[![Gameplay Video](https://img.youtube.com/vi/5OgnzV0K_1s/0.jpg)](https://www.youtube.com/watch?v=5OgnzV0K_1s)
+<img src="https://github.com/simplegr33n/CBT/blob/master/screenshots/movement.png?raw=true" width="600">
 
 Multiplayer currently uses Firebase for the backend as it's free at low volume and because the multiplayer implementation at this point is merely a crude passing of messages back and forth for each turn. It is currently not fully functional, as I started building out unit ability functions since first implementing multiplayer. At this point my focus is on creating a clean and complete working single player version before returning to look at multiplayer - though a basic mechanism for game creation, joining, turn management, and messaging is already somewhat implemented. I may simply pull Firebase and multiplayer functionality out of the project altogether for the time being for simplicity. Currently you would have to create your own Firebase Real Time Database in order to get multiplayer working on a clone of this repo. 
 
+<img src="https://github.com/simplegr33n/CBT/blob/master/screenshots/firebase.png?raw=true" width="600">
+
+***Gameplay Video***
+
+[![Gameplay Video](https://img.youtube.com/vi/5OgnzV0K_1s/0.jpg)](https://www.youtube.com/watch?v=5OgnzV0K_1s)
 
 ### *//TODO:* ***Overview of basic gameplay***
 

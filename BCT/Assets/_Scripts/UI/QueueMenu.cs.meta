@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 6c3c41f047e6d2242a093e8e245222d0
+timeCreated: 1518948211
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - profImage0: {instanceID: 0}
+  - unitName0: {instanceID: 0}
+  - teamIndicator0: {instanceID: 0}
+  - profImage1: {instanceID: 0}
+  - unitName1: {instanceID: 0}
+  - teamIndicator1: {instanceID: 0}
+  - profImage2: {instanceID: 0}
+  - unitName2: {instanceID: 0}
+  - teamIndicator2: {instanceID: 0}
+  - profImage3: {instanceID: 0}
+  - unitName3: {instanceID: 0}
+  - teamIndicator3: {instanceID: 0}
+  - profImage4: {instanceID: 0}
+  - unitName4: {instanceID: 0}
+  - teamIndicator4: {instanceID: 0}
+  - profImage5: {instanceID: 0}
+  - unitName5: {instanceID: 0}
+  - teamIndicator5: {instanceID: 0}
+  - cloudAvatar: {fileID: 2800000, guid: f16028639a547cb49a677eb8a9d238f0, type: 3}
+  - blackRookAvatar: {fileID: 2800000, guid: 5053cc495bf65ae44abb00b81110ab03, type: 3}
+  - wolfAvatar: {fileID: 2800000, guid: 5593dee39c0e43944b8261c590b4f307, type: 3}
+  - medicAvatar: {fileID: 2800000, guid: 8ee3aa7b5fe8d3c459738811f463e2e2, type: 3}
+  - badRobutAvatar: {fileID: 2800000, guid: 741b3518154299841883c237c4f46c22, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

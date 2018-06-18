@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 05a7bf7b75bd47c41ad986808cbef009
+timeCreated: 1516565031
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SELECTED_GAME_OBJECT: {instanceID: 0}
+  - multiTile: {instanceID: 0}
+  - terrainDirt: {fileID: 2100000, guid: e24518209094db74bbd4fb004100e4c8, type: 2}
+  - explosion: {instanceID: 0}
+  - popupText: {instanceID: 0}
+  - entityMenu: {instanceID: 0}
+  - queueMenu: {instanceID: 0}
+  - unitCloud: {instanceID: 0}
+  - unitBlackRook: {instanceID: 0}
+  - unitMedic: {instanceID: 0}
+  - unitWolf: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
